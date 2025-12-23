@@ -8,6 +8,8 @@ Da Android 4.1 a 11
 
 Configurazione tramite  file di excel
 
+Stampa scontrini su stampante ESC/POS BlueTooth 
+
 Root Password : 767676
 
 Default Admin Password : 666999 
